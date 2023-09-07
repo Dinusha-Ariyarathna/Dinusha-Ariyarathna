@@ -1,4 +1,4 @@
-<img src="[https://cdnb.artstation.com/p/assets/images/images/024/252/815/original/ivan-boyko-clouds-day-2.gif?1581813490](https://i.pinimg.com/originals/9e/29/a6/9e29a638fc3c22b56b30b5c583915396.gif)">
+<img src="[[https://cdnb.artstation.com/p/assets/images/images/024/252/815/original/ivan-boyko-clouds-day-2.gif?1581813490](https://i.pinimg.com/originals/9e/29/a6/9e29a638fc3c22b56b30b5c583915396.gif)](https://animesher.com/orig/1/181/1811/18117/animesher.com_rose-art-minimal-1811717.gif)">
 <h1 align="center">Hi 👋, I'm Dinusha Ariyarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
