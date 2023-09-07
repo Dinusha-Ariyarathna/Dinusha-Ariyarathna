@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://cdnb.artstation.com/p/assets/images/images/024/252/815/original/ivan-boyko-clouds-day-2.gif?1581813490](https://gifdb.com/images/high/anime-banner-gif-file-887kb-403zb61pwn0r8ft3.webp))
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dinusha Ariyarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
