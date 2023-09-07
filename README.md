@@ -1,4 +1,4 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/024/252/815/original/ivan-boyko-clouds-day-2.gif?1581813490">
+<img src="[https://cdnb.artstation.com/p/assets/images/images/024/252/815/original/ivan-boyko-clouds-day-2.gif?1581813490](https://i.pinimg.com/originals/9e/29/a6/9e29a638fc3c22b56b30b5c583915396.gif)">
 <h1 align="center">Hi 👋, I'm Dinusha Ariyarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
