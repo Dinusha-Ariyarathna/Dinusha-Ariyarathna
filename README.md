@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dinushaariyarathna2@gmail.com**
 
-- ⚡ Fun fact **I use GitLab as the main VC system 😭**
+- ⚡ Sadly **I use GitLab and BitBucket as the main VC system 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
