@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Dinusha Ariyarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **4 projects related to fintech industry**
+- 🔭 I’m currently working on **2 projects related to fintech industry**
 
-- 🌱 I’m currently learning **Mern stack and Angular**
+- 🌱 I’m currently learning **Mern stack and AWS**
 
-- 💬 Ask me about **MERN, SpringMVC, SpringBoot**
+- 💬 Ask me about **Spring, SpringMVC, SpringBoot, Microservices**
 
 - 📫 How to reach me **dinushaariyarathna2@gmail.com**
 
