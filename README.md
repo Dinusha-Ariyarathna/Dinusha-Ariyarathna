@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Dinusha Ariyarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
+- ⚡ Sadly Github isn't my main VCS **I use GitLab and BitBucket as the main VCS 😭**
+
 - 🔭 I’m currently working on **2 projects related to fintech industry**
 
 - 🌱 I’m currently learning **Mern stack and AWS**
@@ -9,8 +11,6 @@
 - 💬 Ask me about **Spring, SpringMVC, SpringBoot, Microservices**
 
 - 📫 How to reach me **dinushaariyarathna2@gmail.com**
-
-- ⚡ Sadly **I use GitLab and BitBucket as the main VC system 😭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
