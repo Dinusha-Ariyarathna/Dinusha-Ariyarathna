@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/c5/fc/ba/c5fcba8f460218a8f20ad37872ec0a9e.gif" align="center">
+<div align="center">
+    <img src="https://i.pinimg.com/originals/c5/fc/ba/c5fcba8f460218a8f20ad37872ec0a9e.gif" alt="Description of the image" />
+</div>
 <h1 align="center">Hi 👋, I'm Dinusha Ariyarathna</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
